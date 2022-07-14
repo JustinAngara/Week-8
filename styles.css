@@ -1,0 +1,97 @@
+
+footer {
+    text-align: center;
+    padding: 1;
+    position: fixed;
+    left:0%;
+    bottom: 0;
+    margin:0;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(74, 74, 74);
+    color: crimson;
+    font-size: 35px;
+}
+.email{
+
+    
+    color: whitesmoke;
+    font-size: 175%;
+}
+.cool_link{
+
+    color: rgb(209, 208, 208);
+    font-size: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.cool_link:hover{
+    color: whitesmoke;
+}
+
+.website_link{
+    color: rgb(113, 105, 105);
+    font: bold;
+    font-size: 150%;
+}
+
+.button {
+    border-radius: 8px;
+    background-color: rgb(97, 97, 97);
+    border: none;
+    color: white;
+    padding: 15px 52px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+body{
+    background-color: rgb(175, 175, 175);
+}
+td{
+    background-color: rgb(254, 254, 254);
+    left:10%
+}
+td:hover{
+    background-color: crimson;
+    color: rgb(255,255,255);
+    text-decoration: overline;
+}
+
+
+h1 {
+    color:crimson;
+    font-style: italic;
+    text-decoration: underline;
+}
+h2{
+    color:rgb(204, 6, 72);
+    font-style: bold;
+    text-decoration: underline;
+}
+
+
+table{
+    padding-top: 50px;
+}
+tr,th,td {
+    border: solid 2px white;
+}
+
+input[type=text] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.text_paragraph,li {
+    max-width: 700px;
+    font-size: 110%;
+    font-family: sans-serif;
+    color: rgb(239, 239, 239);
+}
+
